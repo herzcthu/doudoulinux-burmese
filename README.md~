@@ -6,7 +6,7 @@ All fonts, keyboard layout and other related files for doudoulinux burmese
 
 Instructions
 
-1. Set AyarBonBon.ttf as a system default font (Note: if your system language is Burmese, you need to use localized name of font family instead english name. i.e -  ဧရာ ဗံုဗံု instead "Ayar Bon Bon" . ဧရာ မိုနို  instead "ayar mono"
+1. Set AyarBonBon-burmese(Default Font).ttf as a system default font
 
 2. replace /usr/share/X11/xkb/rules/evdev.xml with xkb-config/rules/evdev.xml
 

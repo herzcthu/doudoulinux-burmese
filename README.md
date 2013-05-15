@@ -11,3 +11,7 @@ Instructions
 2. replace /usr/share/X11/xkb/rules/evdev.xml with xkb-config/rules/evdev.xml
 
 3. replace /usr/share/X11/xkb/symbols/mm with xkb-config/symbols/mm
+
+4. replace /usr/share/i18n/locales/my_MM with locales/my_MM 
+
+5. replace graphic images in /usr/share/plymouth/themes/doudou-witch with graphic images in graphics directory.
